@@ -4,11 +4,7 @@
 node_modules
 npm-debug.log
 web.zip
-data/config
-data/session
-data/cache
-data/upload
-data/log
+themes
 #所有的数据不提交
 *.json
 .tags
