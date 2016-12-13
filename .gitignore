@@ -5,6 +5,8 @@ node_modules
 npm-debug.log
 web.zip
 themes
+_config.yml
+public
 #所有的数据不提交
 *.json
 .tags
